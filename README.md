@@ -1,5 +1,5 @@
 ## Polo Timer
-Welcome to the Polo Timer project. This simple Python-based timer was created as a hands-on exercise for me to learn the basics of Python. I enjoyed building it and i hope it's the first project of many.
+Welcome to my Polo Timer project. This simple Python-based tool was created for time keeping and score keeping polo matches. The intention was touse the project as a hands-on exercise for me to learn the basics of Python. I enjoyed building it and I hope it's the first project of many.
 
 ## Disclaimer
 This project is a personal learning exercise. You might find that the code isn’t as neat or optimized as production-level software, but it works. Feel free to use, modify, or enhance it according to your needs.
@@ -42,4 +42,4 @@ Though i imagine the ven diagramme of people who code and people who timekeep po
 ## License
 This project is open source. You’re free to use it as-is or modify it under the terms of your preferred open-source license.
 
-Note: This code is provided "as-is". Happy coding and feel free to share your improvements!
+Note: This code is provided "as-is". Happy coding and feel free to use and share any improvements.
